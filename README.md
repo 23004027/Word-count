@@ -29,7 +29,7 @@ End the program
 from google.colab import drive
 drive.mount('/content/drive')
 
-f=open('/content/cars (1).txt','r')
+f=open('/content/cars (1).csv','r')
 b=f.read()
 d=0
 c=b.split(' ')
