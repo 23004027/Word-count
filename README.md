@@ -40,6 +40,9 @@ print('The number of words:',d)
 
 ### OUTPUT:
 ![Screenshot 2024-01-02 161913](https://github.com/23004027/Word-count/assets/138956447/9a1afe63-6972-4122-a007-3fccab2ee54d)
+
+
+
 ![Screenshot 2024-01-02 161933](https://github.com/23004027/Word-count/assets/138956447/540f736c-0b7b-43bd-ad67-8462a5843610)
 
 
